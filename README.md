@@ -38,7 +38,11 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N5d2NydzV5a2l2d3V4M3k2a2F4b2F5eDVpY3U2a2Q0d2d4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="850"/>
+<div align="center">
+
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamp042002-collab&theme=tokyonight"/>
+
+</div>
 
 </div>
 
