@@ -36,15 +36,9 @@
 <td width="50%">
 <div align="center">
 
-<div align="center">
-
-<div align="center">
 
 <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamp042002-collab&theme=tokyonight"/>
 
-</div>
-
-</div>
 
 </div>
 ### 👨‍💻 About Me
