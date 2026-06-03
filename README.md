@@ -34,7 +34,11 @@
 <tr>
 
 <td width="50%">
+<div align="center">
 
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+
+</div>
 ### 👨‍💻 About Me
 
 ```yaml
