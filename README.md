@@ -4,7 +4,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&height=320&color=gradient&text=SHIVAM%20PANDEY&fontSize=70&fontAlignY=35&animation=twinkling&desc=Backend%20Engineer%20%7C%20Django%20Developer%20%7C%20AWS%20Cloud%20Enthusiast&descAlignY=58"/>
 
-<img src="[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&lines=Building+Production+Grade+Backend+Systems;Python+%7C+Django+%7C+DRF+%7C+AWS;Secure+REST+API+Developer;Docker+%7C+Linux+%7C+Cloud+Native;Exploring+AI+Powered+Applications;Scalable+Architecture+and+System+Design)](https://github.com/shivamp042002-collab)"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=1000&lines=Building+Production+Grade+Backend+Systems;Python+%7C+Django+%7C+DRF+%7C+AWS;Secure+REST+API+Developer;Docker+%7C+Linux+%7C+Cloud+Native;Exploring+AI+Powered+Applications;Scalable+Architecture+and+System+Design)](https://github.com/shivamp042002-collab"/>
 
 <br>
 
