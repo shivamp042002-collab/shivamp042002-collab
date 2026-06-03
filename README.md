@@ -45,7 +45,7 @@
 
 
 </div>
-# 👨‍💻 About Me
+ 👨‍💻 About Me
 
 ```yaml
 Name: Shivam Pandey
