@@ -39,13 +39,13 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&section=header&text=AI%20Powered%20Backend%20Engineer&fontSize=45&animation=twinkling&fontColor=ffffff"/>
+<img width="100%" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
 
 </div>
 
 
 </div>
-### 👨‍💻 About Me
+# 👨‍💻 About Me
 
 ```yaml
 Name: Shivam Pandey
