@@ -36,7 +36,11 @@
 <td width="50%">
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%">
+<div align="center">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2N5d2NydzV5a2l2d3V4M3k2a2F4b2F5eDVpY3U2a2Q0d2d4aCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif" width="850"/>
+
+</div>
 
 </div>
 ### 👨‍💻 About Me
