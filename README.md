@@ -37,7 +37,11 @@
 <div align="center">
 
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shivamp042002-collab&theme=tokyonight"/>
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=220&section=header&text=AI%20Powered%20Backend%20Engineer&fontSize=45&animation=twinkling&fontColor=ffffff"/>
+
+</div>
 
 
 </div>
